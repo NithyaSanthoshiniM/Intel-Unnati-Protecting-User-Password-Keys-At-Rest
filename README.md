@@ -1,5 +1,5 @@
-## Intel-Unnati-Protecting-User-Password-Keys-At-Rest
-# Intel Unnati Industrial Training
+# Intel-Unnati-Protecting-User-Password-Keys-At-Rest
+## Intel Unnati Industrial Training
 Team BitMiners
 Nitte Meenakshi Institute of Technology
 Participants: Nithya Santhoshini M & Surepally Vishnnu Vardhini
