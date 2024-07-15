@@ -1,8 +1,12 @@
 # Intel-Unnati-Protecting-User-Password-Keys-At-Rest
 ## Intel Unnati Industrial Training
-Team BitMiners
+
+###Team BitMiners
+
 Nitte Meenakshi Institute of Technology
+
 Participants: Nithya Santhoshini M & Surepally Vishnnu Vardhini
+
 This is the repository for submission of Intel Unnati Industrial Training project for the problem statement:
 
 Protecttion of user password keys at rest
