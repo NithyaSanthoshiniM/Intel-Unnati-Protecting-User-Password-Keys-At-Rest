@@ -38,7 +38,7 @@ Usage:
 Requirements:
 
     Python 3.6 or higher
-    Required libraries: tkinter, customtkinter, pyotp, Crypto
+    Required libraries: tkinter, customtkinter, pyotp, Crypto, pycryptodome
 
 Notes:
 
