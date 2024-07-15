@@ -1,7 +1,7 @@
 # Intel-Unnati-Protecting-User-Password-Keys-At-Rest
 ## Intel Unnati Industrial Training
 
-###Team BitMiners
+### Team BitMiners
 
 Nitte Meenakshi Institute of Technology
 
