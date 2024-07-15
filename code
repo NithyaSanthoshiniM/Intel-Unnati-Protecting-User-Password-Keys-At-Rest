@@ -134,7 +134,7 @@ class App(tk.Tk):
     def send_otp(self):
         totp = pyotp.TOTP(self.otp_secret)
         otp = totp.now()
-        logging.debug(f"Generating OTP : {otp}")
+        logging.debug(f"Generating OTP")
         self.send_email(self.email, otp)
         messagebox.showinfo("OTP Sent", "OTP has been sent to your email. Please check.")
 
